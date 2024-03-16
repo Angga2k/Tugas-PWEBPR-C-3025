@@ -179,6 +179,11 @@ p{
     padding: 15px;
 }
 
+.button:hover{
+    cursor: pointer;
+
+}
+
 .fotografer .button-fotografi{
     background-color: #3279AF;
     border-radius: 20px;
